@@ -22,3 +22,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "숫자를 입력해주세요.";
     }
 }
+?>
